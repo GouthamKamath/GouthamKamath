@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GouthamKamath, I am a Software developer with Infosys Limited. I have worked on developing and maintaining Java based applications as part of my role at Infosys.
-- I am currently working on developing my web development skills. Have developed multiple applications using Javascript, HTML and CSS. I also got certified as an associate AWS developer.
+- I am currently working on developing my web development skills. Have developed multiple applications using Javascript, HTML and CSS. I also got certified as an associate AWS developer recently.
 - My interests include Reading books and travelling. I am a spiritual person and like to meditate a lot. 
  - I never like to give up on anything easily.
 
